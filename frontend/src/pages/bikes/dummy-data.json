@@ -1,0 +1,147 @@
+{
+    "bikes": {
+        "lastUpdated": "1652741411153",
+        "ttl": 21,
+        "data": [
+            {
+                "id": "OS7VA",
+                "location": {
+                    "longitude": 32.8643810105882,
+                    "latitude": 39.9244125486328,
+                    "__typename": "Location"
+                },
+                "isReserved": true,
+                "isDisabled": true,
+                "vehicleType": "scooter",
+                "totalBookings": 8,
+                "android": "https://deeplink.helbiz.com/startRide?code=OS7VA",
+                "ios": "https://deeplink.helbiz.com/startRide?code=OS7VA",
+                "__typename": "BikeItem"
+            },
+            {
+                "id": "Q2RLQ",
+                "location": {
+                    "longitude": 32.8684158583946,
+                    "latitude": 39.92575291543032,
+                    "__typename": "Location"
+                },
+                "isReserved": false,
+                "isDisabled": false,
+                "vehicleType": "scooter",
+                "totalBookings": 12,
+                "android": "https://deeplink.helbiz.com/startRide?code=Q2RLQ",
+                "ios": "https://deeplink.helbiz.com/startRide?code=Q2RLQ",
+                "__typename": "BikeItem"
+            },
+            {
+                "id": "Z2LBF",
+                "location": {
+                    "longitude": 32.868612121137396,
+                    "latitude": 39.92650444469358,
+                    "__typename": "Location"
+                },
+                "isReserved": false,
+                "isDisabled": false,
+                "vehicleType": null,
+                "totalBookings": 12,
+                "android": "https://deeplink.helbiz.com/startRide?code=Z2LBF",
+                "ios": "https://deeplink.helbiz.com/startRide?code=Z2LBF",
+                "__typename": "BikeItem"
+            },
+            null,
+            {
+                "id": "FBGXO",
+                "location": {
+                    "longitude": 32.86483471634385,
+                    "latitude": 39.92628897743294,
+                    "__typename": "Location"
+                },
+                "isReserved": false,
+                "isDisabled": false,
+                "vehicleType": null,
+                "totalBookings": 2,
+                "android": "https://deeplink.helbiz.com/startRide?code=FBGXO",
+                "ios": "https://deeplink.helbiz.com/startRide?code=FBGXO",
+                "__typename": "BikeItem"
+            },
+            {
+                "id": "LT3RT",
+                "location": {
+                    "longitude": 32.86590391032198,
+                    "latitude": 39.9245743946225,
+                    "__typename": "Location"
+                },
+                "isReserved": true,
+                "isDisabled": true,
+                "vehicleType": "bike",
+                "totalBookings": 0,
+                "android": "https://deeplink.helbiz.com/startRide?code=LT3RT",
+                "ios": "https://deeplink.helbiz.com/startRide?code=LT3RT",
+                "__typename": "BikeItem"
+            },
+            {
+                "id": "T2ZX9",
+                "location": {
+                    "longitude": 32.866299055506886,
+                    "latitude": 39.92560503037201,
+                    "__typename": "Location"
+                },
+                "isReserved": false,
+                "isDisabled": true,
+                "vehicleType": "scooter",
+                "totalBookings": 5,
+                "android": "https://deeplink.helbiz.com/startRide?code=T2ZX9",
+                "ios": "https://deeplink.helbiz.com/startRide?code=T2ZX9",
+                "__typename": "BikeItem"
+            },
+            {
+                "id": "2NP1R",
+                "location": {
+                    "longitude": 32.86349704014174,
+                    "latitude": 39.925381504646495,
+                    "__typename": "Location"
+                },
+                "isReserved": false,
+                "isDisabled": false,
+                "vehicleType": "scooter",
+                "totalBookings": 7,
+                "android": "https://deeplink.helbiz.com/startRide?code=2NP1R",
+                "ios": "https://deeplink.helbiz.com/startRide?code=2NP1R",
+                "__typename": "BikeItem"
+            },
+            {
+                "id": "WZKOU",
+                "location": {
+                    "longitude": 32.86543575881174,
+                    "latitude": 39.92647916258679,
+                    "__typename": "Location"
+                },
+                "isReserved": true,
+                "isDisabled": false,
+                "vehicleType": null,
+                "totalBookings": 2,
+                "android": "https://deeplink.helbiz.com/startRide?code=WZKOU",
+                "ios": "https://deeplink.helbiz.com/startRide?code=WZKOU",
+                "__typename": "BikeItem"
+            },
+            {
+                "id": "FV2FO",
+                "location": {
+                    "longitude": 32.86544307082304,
+                    "latitude": 39.92631783185765,
+                    "__typename": "Location"
+                },
+                "isReserved": false,
+                "isDisabled": true,
+                "vehicleType": "scooter",
+                "totalBookings": 7,
+                "android": "https://deeplink.helbiz.com/startRide?code=FV2FO",
+                "ios": "https://deeplink.helbiz.com/startRide?code=FV2FO",
+                "__typename": "BikeItem"
+            }
+        ],
+        "totalCount": 500,
+        "nextPage": true,
+        "__typename": "Bikes"
+    }
+}

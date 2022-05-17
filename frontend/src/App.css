@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+  font-weight: 500;
+}
+
+.App header {
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+}
+
+.ant-layout {
+  min-height: 100vh;
+}
+.ant-layout-header {
+  padding: 0 calc(calc(100% - 960px) / 2);
+}
+.ant-layout-content {
+  width: 100%;
+  max-width: 960px;
+  align-self: center;
+  padding: 4em;
+}
